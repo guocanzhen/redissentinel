@@ -1,2 +1,2 @@
 # redissentinel
-springboot集成redis哨兵（1主2从3哨兵）
+springboot集成redis哨兵模式（1主2从3哨兵）
